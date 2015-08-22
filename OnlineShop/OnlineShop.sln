@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Models", "OnlineShop.Models\OnlineShop.Models.csproj", "{3D8CA27F-C350-43BD-9D08-725F60CACEE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Data", "OnlineShop.Data\OnlineShop.Data.csproj", "{5A3802F4-21F1-4E8E-A49E-400B91B458E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineShop.Services", "OnlineShop.Services\OnlineShop.Services.csproj", "{6AB90718-F746-4EB6-8B7F-4A37B44F9FB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8CA27F-C350-43BD-9D08-725F60CACEE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D8CA27F-C350-43BD-9D08-725F60CACEE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D8CA27F-C350-43BD-9D08-725F60CACEE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D8CA27F-C350-43BD-9D08-725F60CACEE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3802F4-21F1-4E8E-A49E-400B91B458E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3802F4-21F1-4E8E-A49E-400B91B458E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3802F4-21F1-4E8E-A49E-400B91B458E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3802F4-21F1-4E8E-A49E-400B91B458E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AB90718-F746-4EB6-8B7F-4A37B44F9FB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AB90718-F746-4EB6-8B7F-4A37B44F9FB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AB90718-F746-4EB6-8B7F-4A37B44F9FB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AB90718-F746-4EB6-8B7F-4A37B44F9FB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
